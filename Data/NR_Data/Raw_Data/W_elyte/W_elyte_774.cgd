@@ -1,0 +1,16 @@
+'4elt_774.cgd' 'Mar 24 2016 05:40' 'I'         60.    1  'TIME'    3  'RAW'
+  Filename         Date            Scan       Mon    Prf  Base   #pts  Type    
+Sample 4 10nmSiO2 15nmW in EC,dDEC, LiPF6 with W C 
+ 460    1  500  512 608 512   0   5.0000  0.00000 0.00000   0.00000    1 
+ Collimation      Mosaic    Wavelength   T-Start   Incr.   H-field #Det    
+  1       0.12000    0.04800    0.21600
+  2       0.12000    0.04800    0.21600
+  3       0.50000    0.20000    0.90000
+  4       0.75000    0.30000    1.35000
+  5       0.60000    0.24000    1.08000
+  6       0.80000    0.32000    1.44000
+ Mot:    Start       Step      End
+     A4        A3        A1        A2        A5        A6     MIN      MONITOR      COUNTS 
+        0.75         0.5        0.12        0.12         0.6         0.8 1.00       39017           9 
+        1.05         0.7       0.168       0.168        0.84        1.12 1.00       49528           6 
+        1.35         0.9       0.216       0.216        1.08        1.44 1.00       60837          17 

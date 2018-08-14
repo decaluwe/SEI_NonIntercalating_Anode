@@ -1,0 +1,14 @@
+'bare_546.cgd' 'Mar 21 2016 15:48' 'I'      80000.    1  'NEUT'    1  'RAW'
+  Filename         Date            Scan       Mon    Prf  Base   #pts  Type    
+slit scan 1 No attenuator                          
+ 460    1  500  512 608 512   0   5.0000  0.00000 0.00000   0.00000    1 
+ Collimation      Mosaic    Wavelength   T-Start   Incr.   H-field #Det    
+  1       0.05000    0.00000    0.05000
+  2       0.05000    0.00000    0.05000
+  3       0.00000    0.00000    0.00000
+  4       0.00000    0.00000    0.00000
+  5       0.60000    0.00000    0.60000
+  6       0.80000    0.00000    0.80000
+ Mot:    Start       Step      End
+     A1        A2        A5        A6     MIN      MONITOR      COUNTS 
+        0.05        0.05         0.6         0.8 0.66       16509        6575 

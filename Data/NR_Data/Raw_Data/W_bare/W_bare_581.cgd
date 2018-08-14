@@ -1,0 +1,16 @@
+'bare_581.cgd' 'Mar 22 2016 02:42' 'I'         60.    1  'TIME'    3  'RAW'
+  Filename         Date            Scan       Mon    Prf  Base   #pts  Type    
+sample3 W 15nmon SiO210nm in Ar                    
+ 460    1  500  512 608 512   0   5.0000  0.00000 0.00000   0.00000    1 
+ Collimation      Mosaic    Wavelength   T-Start   Incr.   H-field #Det    
+  1       0.40000    0.10000    0.60000
+  2       0.40000    0.10000    0.60000
+  3       1.00000    0.25000    1.50000
+  4       2.50000    0.62500    3.75000
+  5       1.20000    0.30000    1.80000
+  6       1.60000    0.40000    2.40000
+ Mot:    Start       Step      End
+     A4        A3        A1        A2        A5        A6     MIN      MONITOR      COUNTS 
+         2.5           1         0.4         0.4         1.2         1.6 1.00      102191          38 
+       3.125        1.25         0.5         0.5         1.5           2 1.00      123416          35 
+        3.75         1.5         0.6         0.6         1.8         2.4 1.00      143706          19 
